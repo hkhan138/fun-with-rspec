@@ -2,7 +2,8 @@
 
 FactoryGirl.define do
   factory :comment do
-    comment "Man do I love this"
+    comment "super tight huh? lol"
+    link_id 1
     score 1
   end
 end

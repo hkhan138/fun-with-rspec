@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-FunWithRspec::Application.config.secret_key_base = 'a387bc044aa64e43e3d845670dee50d00e2c7fde5afd4526444f55613064391fa5c3bf57a8a747184241cbf27b25ab850d693be63085be8f09c0d926bc8af0e7'
+FunWithRspec::Application.config.secret_key_base = 'e6b360a30f52169708356a8181c6110dc6dfa239294b5f770a9397203ee8b1d6e56d181bccc08c25d27c84aee42f4dfe6db38d6ed12484c06705b731913ce4fe'

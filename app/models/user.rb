@@ -1,7 +1,6 @@
 class User < ActiveRecord::Base
-  has_many :links
+end
 
-  def fullname
-  	return first_name + " " + last_name
-  end
+def fullname
+  return "#{first_name} #{last_name}" 
 end
